@@ -7,3 +7,4 @@
  2. Docker 설치하기 -> [link](https://github.com/j961224/Docker-Study/blob/main/DockerDescription/2.%20Docker%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.md)
  3. Docker 사용해보기 -> [link](https://github.com/j961224/Docker-Study/blob/main/DockerDescription/3.%20Docker%20%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0.md)
  4. Docker 이미지 생성하기 -> [link](https://github.com/j961224/Docker-Study/blob/main/DockerDescription/4.%20Docker%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0.md)
+ 5. Docker 살펴보기 -> [link](https://github.com/j961224/Docker-Study/blob/main/DockerDescription/5.%20Docker%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md)
